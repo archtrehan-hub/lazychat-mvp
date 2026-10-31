@@ -1,0 +1,4 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+input, textarea, select { color: #0051ff !important; font-weight: 500; }
